@@ -1,0 +1,12 @@
+torch>=2.0.0
+torchvision>=0.15.0
+numpy>=1.21.0
+pandas
+Pillow
+scipy
+tqdm
+matplotlib
+seaborn
+opencv-python
+pycocotools
+pathlib

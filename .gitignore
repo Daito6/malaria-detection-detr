@@ -1,0 +1,14 @@
+*.pth
+detr/weights/
+checkpoint.pth
+
+dataset/
+data/
+
+.idea/
+__pycache__/
+venv/
+.env
+.DS_Store
+
+.ipynb_checkpoints/
