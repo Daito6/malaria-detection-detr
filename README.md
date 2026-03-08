@@ -11,16 +11,6 @@ The dataset consists of high-resolution microscopic images of blood cells. Below
 ### Dataset Distribution Analysis
 The dataset contains **1,208 training images** and **120 test images**. Analysis of the category distribution reveals a significant data imbalance:
 
-| Category | Images (Train) | Boxes (Train) | Boxes (Test) |
-| :--- | :--- | :--- | :--- |
-| red blood cell | 1208 (100%) | 77420 | 5614 |
-| trophozoite | 596 (49.3%) | 1473 | 111 |
-| ring | 244 (20.2%) | 353 | 169 |
-| schizont | 157 (13.0%) | 179 | 11 |
-| gametocyte | 136 (11.3%) | 144 | 12 |
-| difficult | 342 (28.3%) | 441 | 5 |
-| leukocyte | 94 (7.8%) | 103 | 0 |
-
 <img width="1228" height="906" alt="image" src="https://github.com/user-attachments/assets/c532a11b-dd16-4406-9022-f475f7627004" />
 
 
